@@ -1,0 +1,40 @@
+
+.Products{
+    width: auto;
+
+}
+.p4{
+    width: auto;
+}
+.typeProducts{
+    border: wheat solid 1px;
+width: 24%;
+float: left;
+margin-left: 5px;
+padding: 2px 2px;
+margin-bottom: 3px;
+}
+
+.price1, .price2{
+    float:left;
+    margin-right: 5px;
+}
+.price2{
+    color: red;
+    text-decoration-line: line-through;
+}
+img{
+    width: 100%;
+}
+.price1{
+    color: green;
+}
+.clear{
+    clear: both;
+}
+button{
+    background-color: blue;
+    color: white;
+    padding: 10px 20px;
+    
+}
